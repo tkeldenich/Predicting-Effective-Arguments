@@ -7,7 +7,7 @@ Today, let’s see together how to apply Exploratory Data Analysis (EDA) on a NL
 
 In a previous article we saw how to do EDA to [prevent environmental disasters.](https://inside-machinelearning.com/en/data-science-and-environment/) Thanks to meteorological data, we analyzed [the causes of forest fires.](https://inside-machinelearning.com/en/data-science-and-environment/)
 
-**Here I propose to apply the same analysis on text data thanks to the** [feedback-prize-effectiveness](https://github.com/tkeldenich/-Predicting-Effective-Arguments) **dataset.**
+**Here I propose to apply the same analysis on text data thanks to the** [feedback-prize-effectiveness](https://github.com/tkeldenich/Predicting-Effective-Arguments) **dataset.**
 
 This dataset is taken from the Kaggle competition of the same name: [Feedback Prize – Predicting Effective Arguments.](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)
 
@@ -15,7 +15,7 @@ The main objective of this competition is to create a Machine Learning algorithm
 
 ## **Data**
 
-First thing to do, download the dataset. Either by registering to the [Kaggle](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview) contest, or by downloading it on [this Github.](https://github.com/tkeldenich/-Predicting-Effective-Arguments)
+First thing to do, download the dataset. Either by registering to the [Kaggle](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview) contest, or by downloading it on [this Github.](https://github.com/tkeldenich/Predicting-Effective-Arguments)
 
 Then you can open it with Pandas and display dimensions:
 
